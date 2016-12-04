@@ -14,14 +14,9 @@
                     {{ partial "menu" . }}
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-8">
-                    <div class="page-header">
-                        {{ range where .Site.Pages "Type" "index" }}
-                        {{ .Content }}
-                        {{ end }}
-                    </div>
-                     {{ range first 10 .Data.Pages }}
-                         <h1>{{ .Title }}</h1>
-                     {{ end }}
+                    {{ range first 10 .Data.Pages }}
+                        <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                    {{ end }}
                 </div>
             </div>
         </div>
