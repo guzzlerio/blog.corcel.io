@@ -14,7 +14,7 @@ params:
   # Repository
   provider:   GitHub
   repoUrl:    https://github.com/guzzlerio/blog.corcel.io
-  repoId:     corcel.io
+  repoId:     blog.corcel.io
 
   version:     1.0.0
   # favicon:     favicon.ico
