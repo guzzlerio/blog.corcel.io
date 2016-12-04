@@ -1,24 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        {{ partial "header" . }}
-    </head>
-    <body>
-        <div class="navbar navbar-default navbar-fixed-top">
-            {{ partial "navbar" . }}
-        </div>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-                {{ range $paginator.Pages }}
-                    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-                {{ end }}
-                {{ template "_internal/pagination.html" . }}
+<head>
+    {{ partial "header" . }}
+</head>
+
+<body>
+    <div class="navbar navbar-default navbar-fixed-top">
+        {{ partial "navbar" . }}
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div id="index">
+                    {{ range (.Paginator 10).Pages }}
+                    <article class="post">
+
+                        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+                        <p class="post-time">{{ .Date.Format "January 2, 2006" }}</p>
+
+                        <div class="post-content">
+                            <p>{{ .Summary }}</p>
+                            <a class="btn btn-default" href="{{.RelPermalink}}" id="read-more-button"> Read more ></a>
+                        </div>
+
+                    </article>
+                    {{ end }}
                 </div>
+                {{ if .Paginator.HasPrev }}
+                <a class="btn btn-default" href="{{ .Paginator.Prev.URL }}">
+                    &lt; Previous Page </a>
+                {{ end }}
+                {{ if .Paginator.HasNext }}
+                <a class="btn btn-default" href="{{ .Paginator.Next.URL }}">
+                    Next Page &gt;
+                </a>
+                {{ end }}
             </div>
         </div>
-{{ partial "footer_js" . }}
-    </body>
+    </div>
+    {{ partial "footer_js" . }}
+</body>
+
 </html>
