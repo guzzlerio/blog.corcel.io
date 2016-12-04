@@ -7,18 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Released under Mozilla Public License Version 2.0</copyright>
-    <lastBuildDate>Sun, 04 Dec 2016 09:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2016 19:59:36 +0100</lastBuildDate>
     <atom:link href="http://blog.corcel.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>good to great</title>
-      <link>http://blog.corcel.io/post/good-to-great/</link>
-      <pubDate>Sun, 04 Dec 2016 09:34:38 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/good-to-great/</guid>
-      <description>&lt;p&gt;Something is &lt;strong&gt;happening&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Corcel documentation home.</title>
@@ -35,6 +25,16 @@
 &lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
 
 &lt;p&gt;Coming shortly will be an selection of tutorials which you can follow and get up to speed with the different features of Corcel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>good to great</title>
+      <link>http://blog.corcel.io/post/good-to-great/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/good-to-great/</guid>
+      <description>&lt;p&gt;Something is &lt;strong&gt;happening&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
