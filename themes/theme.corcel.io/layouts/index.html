@@ -19,6 +19,9 @@
                         {{ .Content }}
                         {{ end }}
                     </div>
+                     {{ range first 10 .Data.Pages }}
+                         <h1>{{ .Title }}</h1>
+                     {{ end }}
                 </div>
             </div>
         </div>
