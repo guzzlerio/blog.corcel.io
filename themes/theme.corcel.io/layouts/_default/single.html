@@ -10,12 +10,10 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-3 col-sm-4">
-                    {{ partial "menu" . }}
-                </div>
-                <div class="col-lg-9 col-md-9 col-sm-8">
+                <div class="col-lg-12 col-md-12 col-sm-12">
                     <div>
                         <h1 id="main">{{ .Title }}</h1>
+                        <p class="post-time">Posted by <strong>{{ .Params.author  }}</strong> on <strong>{{ .Date.Format "January 2, 2006" }}</strong></p>
                     </div>
                     {{ .Content }}
                 </div>
