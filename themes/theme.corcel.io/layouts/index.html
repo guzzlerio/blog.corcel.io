@@ -19,7 +19,7 @@
                 {{ template "_internal/pagination.html" . }}
                 {{ range $paginator.Pages }}
                    {{ .Title }}
-                   {{ end }}
+                {{ end }}
             </div>
         </div>
 {{ partial "footer_js" . }}
