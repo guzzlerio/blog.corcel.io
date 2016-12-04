@@ -7,35 +7,142 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Released under Mozilla Public License Version 2.0</copyright>
-    <lastBuildDate>Wed, 24 Aug 2016 19:59:36 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2016 11:04:31 +0000</lastBuildDate>
     <atom:link href="http://blog.corcel.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Corcel documentation home.</title>
-      <link>http://blog.corcel.io/</link>
-      <pubDate>Wed, 24 Aug 2016 19:59:36 +0100</pubDate>
+      <title>post number 12</title>
+      <link>http://blog.corcel.io/post/post-number-12/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
       
-      <guid>http://blog.corcel.io/</guid>
-      <description>
-
-&lt;h1 id=&#34;corcel-documentation&#34;&gt;Corcel Documentation&lt;/h1&gt;
-
-&lt;p&gt;Please see our &lt;a href=&#34;http://docs.corcel.io/setup/getting-started/&#34;&gt;Getting Started Guide&lt;/a&gt; to get up and running quickly.  You can get corcel from our &lt;a href=&#34;http://corcel.io/downloads/&#34;&gt;Downloads&lt;/a&gt; section.&lt;/p&gt;
-
-&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
-
-&lt;p&gt;Coming shortly will be an selection of tutorials which you can follow and get up to speed with the different features of Corcel.&lt;/p&gt;
-</description>
+      <guid>http://blog.corcel.io/post/post-number-12/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>good to great</title>
-      <link>http://blog.corcel.io/post/good-to-great/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>post number 13</title>
+      <link>http://blog.corcel.io/post/post-number-13/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
       
-      <guid>http://blog.corcel.io/post/good-to-great/</guid>
-      <description>&lt;p&gt;Something is &lt;strong&gt;happening&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <guid>http://blog.corcel.io/post/post-number-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 14</title>
+      <link>http://blog.corcel.io/post/post-number-14/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 15</title>
+      <link>http://blog.corcel.io/post/post-number-15/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 16</title>
+      <link>http://blog.corcel.io/post/post-number-16/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 17</title>
+      <link>http://blog.corcel.io/post/post-number-17/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 18</title>
+      <link>http://blog.corcel.io/post/post-number-18/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 19</title>
+      <link>http://blog.corcel.io/post/post-number-19/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 20</title>
+      <link>http://blog.corcel.io/post/post-number-20/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:31 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 1</title>
+      <link>http://blog.corcel.io/post/post-number-1/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:30 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 10</title>
+      <link>http://blog.corcel.io/post/post-number-10/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:30 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 11</title>
+      <link>http://blog.corcel.io/post/post-number-11/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:30 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 2</title>
+      <link>http://blog.corcel.io/post/post-number-2/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:30 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 3</title>
+      <link>http://blog.corcel.io/post/post-number-3/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:30 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post number 4</title>
+      <link>http://blog.corcel.io/post/post-number-4/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:30 +0000</pubDate>
+      
+      <guid>http://blog.corcel.io/post/post-number-4/</guid>
+      <description></description>
     </item>
     
   </channel>
