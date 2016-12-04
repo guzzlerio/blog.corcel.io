@@ -7,6 +7,15 @@ a h2{
     color: gray;
 }
 
+a h1:hover{
+    font-weight: bold!important;
+    color: black!important;
+}
+
+a h2:hover{
+    color: gray;
+}
+
 img.logo {
     width:40px;
     margin-top:5px;
