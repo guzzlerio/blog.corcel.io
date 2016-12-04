@@ -7,142 +7,89 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Released under Mozilla Public License Version 2.0</copyright>
-    <lastBuildDate>Sun, 04 Dec 2016 11:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2016 11:04:01 +0000</lastBuildDate>
     <atom:link href="http://blog.corcel.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>post number 20</title>
-      <link>http://blog.corcel.io/post/post-number-20/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:20 +0000</pubDate>
+      <title>Hello World!</title>
+      <link>http://blog.corcel.io/post/hello-world/</link>
+      <pubDate>Sun, 04 Dec 2016 11:04:01 +0000</pubDate>
       
-      <guid>http://blog.corcel.io/post/post-number-20/</guid>
-      <description></description>
+      <guid>http://blog.corcel.io/post/hello-world/</guid>
+      <description>
+
+&lt;h1 id=&#34;et-cum&#34;&gt;Et cum&lt;/h1&gt;
+
+&lt;h2 id=&#34;deferre-io-lapidis-prima-parte-tendens-quae&#34;&gt;Deferre io lapidis prima parte tendens quae&lt;/h2&gt;
+
+&lt;p&gt;Lorem markdownum, loca quodcumque, ponti alis arceat certamina me praeceps et
+verba mei suo, quaerebat plausis praecordia. Perfudit non utque. Staret numen
+temperie, certate toto. Nubila fugientis servabere Oeneus sequens volucrumque
+secura tristia &lt;strong&gt;copia fortibus&lt;/strong&gt; secundis fuerant quia sic vertice iamque, quo.&lt;/p&gt;
+
+&lt;p&gt;Obest in minimae ruit: dies ubi pectora detulit mirator: suo? Concolor perdere,
+non mutaverat ecce &lt;a href=&#34;http://promissa-albet.io/&#34;&gt;propior nunc novitate&lt;/a&gt; dederat
+eiusdem undis in gravatum enim genitorem potuit? &lt;a href=&#34;http://exigere.net/&#34;&gt;Verborum
+magna&lt;/a&gt; fueramque; et &lt;em&gt;amat lanam&lt;/em&gt;, exit; iram. Et parvas
+Ulixis, &lt;a href=&#34;http://viridiformaeque.net/&#34;&gt;simplicitas&lt;/a&gt;; nec petit frondes modo,
+miraturus virgam nefas ad volucris.&lt;/p&gt;
+
+&lt;h2 id=&#34;iam-vires-saepe-nunc-urbesque-si-tritonia&#34;&gt;Iam vires saepe nunc urbesque si Tritonia&lt;/h2&gt;
+
+&lt;p&gt;Revulsos aequora. Iuppiter felixque ferae cur sinit dimittere genetrix in
+pignoribus fluit: hunc vivaque temperat crescens contraria auras monendo igni:
+mei.&lt;/p&gt;
+
+&lt;p&gt;Deiecto vallis detractavitque militiae armorum quem sit Quae dixerunt vicinia,
+surgit. Fecit adopertaque &lt;a href=&#34;http://suos.net/postes-carmine.html&#34;&gt;mundi misereri
+natura&lt;/a&gt; clamat intumuit mons.&lt;/p&gt;
+
+&lt;h2 id=&#34;finem-fastigiaque-tegebat-nitido&#34;&gt;Finem fastigiaque tegebat nitido&lt;/h2&gt;
+
+&lt;p&gt;Leones potentior iamque &lt;em&gt;quam percussus Siqua&lt;/em&gt; moris flammifera pars perstant
+levat et medio profatur concubitus Troiae celebratior harenas flecti si. Ensem
+me &lt;em&gt;iugalis petunt&lt;/em&gt; in aqua nitorem nives Cereris Tirynthius primumque Neptune
+desiluit et aetate inluxisse. Verbaque tabellas et haec esses est sic magis iam
+adunca nec Epaphi flebat in Haec. Conchas Iovis esse viva solent duorum.&lt;/p&gt;
+
+&lt;h2 id=&#34;corpore-quid-o-nec-prodest-nobilitas-nulla&#34;&gt;Corpore quid o nec prodest nobilitas nulla&lt;/h2&gt;
+
+&lt;p&gt;Enim primum. Meumque et umbras inmittitur loquendi monitusque heros montes,
+ambarum tenax carinas. Donasse quae, indetonsusque ante se sonitum posse Circes
+mansit! Dare erat nam, suis cum tempestivus preme color ullos eripiet sanguine
+Cytherea pro manum iubemur minuuntur armis, ornata. Coeunt voce.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Hic bello tenebrae senectam iaculo Minervae&lt;/li&gt;
+&lt;li&gt;Est induitur mea ista carpitque claudit inmensa&lt;/li&gt;
+&lt;li&gt;Caenea edidit Cycnus&lt;/li&gt;
+&lt;li&gt;Habuere sua non secuta fixum dixerat et&lt;/li&gt;
+&lt;li&gt;Coniugis moderere&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Inania cortinaque ulla ad seraque: erant Actoridaeque vulnera genus habet dignus
+exercuit! Missus Alcides. Pati tamen pacifer. Canit multaque conprensam sparsus.
+Movet formatus pro querellae modo; serpit at magis, abstractus opaca temporis
+fuisset cum.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>post number 19</title>
-      <link>http://blog.corcel.io/post/post-number-19/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:19 +0000</pubDate>
+      <title>Corcel documentation home.</title>
+      <link>http://blog.corcel.io/</link>
+      <pubDate>Wed, 24 Aug 2016 19:59:36 +0100</pubDate>
       
-      <guid>http://blog.corcel.io/post/post-number-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 18</title>
-      <link>http://blog.corcel.io/post/post-number-18/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:18 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 17</title>
-      <link>http://blog.corcel.io/post/post-number-17/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:17 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 16</title>
-      <link>http://blog.corcel.io/post/post-number-16/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:16 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 15</title>
-      <link>http://blog.corcel.io/post/post-number-15/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:15 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 14</title>
-      <link>http://blog.corcel.io/post/post-number-14/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:14 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 13</title>
-      <link>http://blog.corcel.io/post/post-number-13/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:13 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 12</title>
-      <link>http://blog.corcel.io/post/post-number-12/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:12 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 11</title>
-      <link>http://blog.corcel.io/post/post-number-11/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:11 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 10</title>
-      <link>http://blog.corcel.io/post/post-number-10/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:10 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 9</title>
-      <link>http://blog.corcel.io/post/post-number-9/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:09 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 8</title>
-      <link>http://blog.corcel.io/post/post-number-8/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:08 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 7</title>
-      <link>http://blog.corcel.io/post/post-number-7/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:07 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post number 6</title>
-      <link>http://blog.corcel.io/post/post-number-6/</link>
-      <pubDate>Sun, 04 Dec 2016 11:04:06 +0000</pubDate>
-      
-      <guid>http://blog.corcel.io/post/post-number-6/</guid>
-      <description></description>
+      <guid>http://blog.corcel.io/</guid>
+      <description>
+
+&lt;h1 id=&#34;corcel-documentation&#34;&gt;Corcel Documentation&lt;/h1&gt;
+
+&lt;p&gt;Please see our &lt;a href=&#34;http://docs.corcel.io/setup/getting-started/&#34;&gt;Getting Started Guide&lt;/a&gt; to get up and running quickly.  You can get corcel from our &lt;a href=&#34;http://corcel.io/downloads/&#34;&gt;Downloads&lt;/a&gt; section.&lt;/p&gt;
+
+&lt;h2 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h2&gt;
+
+&lt;p&gt;Coming shortly will be an selection of tutorials which you can follow and get up to speed with the different features of Corcel.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

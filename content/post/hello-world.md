@@ -1,7 +1,8 @@
 ---
 date: 2016-12-04T11:04:01Z
-title: post number 1
-tagline: Using Corcel with a single URL
+title: Hello World!
+tagline: Introducing Corcel and its website!
+author: Andrew Rea
 ---
 
 # Et cum

@@ -14,14 +14,15 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div id="index">
-                    {{ range (.Paginator 10).Pages }}
+                    {{ range (.Paginator 3).Pages }}
                     <article class="post">
-
-                        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-                        <p class="post-time">{{ .Date.Format "January 2, 2006" }}</p>
+                        <a href="{{.RelPermalink}}">
+                            <h1>{{ .Title }}</h1>
+                            <h2>{{ .Params.tagline }}</h2>
+                        </a>
+                        <p class="post-time">Posted by <strong>{{ .Params.author  }}</strong> on <strong>{{ .Date.Format "January 2, 2006" }}</strong></p>
 
                         <div class="post-content">
-                            <p>{{ .Params.tagline }}</p>
                             <a class="btn btn-default" href="{{.RelPermalink}}" id="read-more-button"> Read more ></a>
                         </div>
 
