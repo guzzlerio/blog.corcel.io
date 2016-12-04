@@ -28,7 +28,7 @@ params:
       - Label:   Blog
         URL:     http://blog.corcel.io
       - Label:   Tutorials
-        URL:     http://blog.corcel.io/blog
+        URL:     http://tutorials.corcel.io
 
   social:
     github:    guzzlerio
