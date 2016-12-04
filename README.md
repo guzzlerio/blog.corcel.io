@@ -1,1 +1,1 @@
-# tutorials.corcel.io
+# blog.corcel.io
