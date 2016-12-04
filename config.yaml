@@ -34,6 +34,6 @@ params:
     github:    guzzlerio
 menu:
   main:
-    - name: Setup
-      weight: 1
+      - name: Post
+        weight: 1
 ...
